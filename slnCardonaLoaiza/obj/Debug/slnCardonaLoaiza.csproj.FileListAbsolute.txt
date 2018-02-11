@@ -1,0 +1,104 @@
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+c:\users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+C:\Users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+C:\Users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+C:\Users\sebas\documents\visual studio 2015\Projects\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+F:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+E:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+D:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+I:\Desarrollo de Software\GUI\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+C:\Users\salak401\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+C:\Users\salak402\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe.config
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.exe
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.pdb
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.exe
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\bin\Debug\slnCardonaLoaiza.pdb
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmFacturador.resources
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmPrincipal.resources
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmRetiro.resources
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmTest.resources
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.frmViaje.resources
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.Properties.Resources.resources
+C:\Users\sebas\Desktop\slnCardonaLoaiza\slnCardonaLoaiza\obj\Debug\slnCardonaLoaiza.csproj.GenerateResource.Cache
